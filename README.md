@@ -203,4 +203,3 @@ A. `응용 프로그램` 폴더에서 AIStatusMenubar를 휴지통으로 옮기�
 - 이 앱은 OpenAI, Anthropic, Google, xAI와 **아무 관계 없는 개인 프로젝트**입니다
 - 각 회사가 공식적으로 제공하는 공개 상태 페이지를 읽어와 보여줄 뿐입니다
 - 사용 중 발생한 문제에 대해서는 책임지지 않습니다
-- 소스 코드: https://github.com/cfcf26/ai-status-menubar (개발자용)
